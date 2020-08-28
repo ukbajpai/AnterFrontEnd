@@ -15,6 +15,7 @@
   src: url('../fonts/raleway/Raleway-Medium.ttf'); 
 }
 
+@font-face {
   font-family: Raleway-SemiBold;
   src: url('../fonts/raleway/Raleway-SemiBold.ttf'); 
 }
